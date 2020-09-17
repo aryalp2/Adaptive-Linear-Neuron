@@ -1,0 +1,3 @@
+# Adaptive-Linear-Neuron
+Adaline was published by Bernard Widrow and his doctoral student Tedd Hoff and can be considered as an improvement on the perceptron algorithm. This algorithm illustrates the key concepts of defining and minimizing the continuous cost function that lays the groundwork for understanding more advanced machine learning algorithms for classification, such as logistic regression, support vector machines and regression models.
+The key difference between the Adaline rule (also known as the Widrow-Hoff rule) and Rosenblatt's perceptron is that the weights are updated based on a linear activation function rather than a unit step function like in the perceptron. In Adaline, this linear activation function is simply the identity function of the net input.
